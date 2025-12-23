@@ -1,2 +1,2 @@
-# trafficTamer
-Uses genetic algorithm to determine best traffic light seqeunces
+# LANButler
+Uses a custom proxy to control outflow of packets. Basically just a parental control app
